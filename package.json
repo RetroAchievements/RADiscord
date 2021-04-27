@@ -21,7 +21,7 @@
         "node-opus": "^0.3.3",
         "node-superfetch": "^0.1.9",
         "pino": "^5.15.0",
-        "redis": "^2.8.0",
+        "redis": "^3.1.1",
         "request": "^2.88.0",
         "rss-parser": "^3.7.3",
         "sqlite": "^3.0.3",
