@@ -13,7 +13,7 @@
         "dotenv": "^8.2.0",
         "erlpack": "^0.1.3",
         "lunr": "^2.3.8",
-        "mathjs": "^6.2.5",
+        "mathjs": "^7.5.1",
         "merge": "^1.2.1",
         "moment": "^2.24.0",
         "moment-timezone": "^0.5.27",
